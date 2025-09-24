@@ -1,0 +1,3 @@
+this is my good 
+hey how are you
+i am enjoying learning git
